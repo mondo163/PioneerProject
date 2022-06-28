@@ -1,0 +1,1836 @@
+fileFormatVersion: 2
+guid: 59dda2628e9cd7c48a67441d42b5deeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2051806283122108453
+    second: NPCS_And_Monsters_0
+  - first:
+      213: -1495099952227205222
+    second: NPCS_And_Monsters_1
+  - first:
+      213: -430433920681635598
+    second: NPCS_And_Monsters_2
+  - first:
+      213: 4434503549876921963
+    second: NPCS_And_Monsters_3
+  - first:
+      213: -4017334985207249011
+    second: NPCS_And_Monsters_4
+  - first:
+      213: -3782610882515975687
+    second: NPCS_And_Monsters_5
+  - first:
+      213: 5164095908143420600
+    second: NPCS_And_Monsters_6
+  - first:
+      213: 2773505021264262937
+    second: NPCS_And_Monsters_7
+  - first:
+      213: 5605891101029843859
+    second: NPCS_And_Monsters_8
+  - first:
+      213: -6252340717007472783
+    second: NPCS_And_Monsters_9
+  - first:
+      213: -8137744980737331818
+    second: NPCS_And_Monsters_10
+  - first:
+      213: -6562007888034922221
+    second: NPCS_And_Monsters_11
+  - first:
+      213: 7887050284127673292
+    second: NPCS_And_Monsters_12
+  - first:
+      213: 8510132820556776330
+    second: NPCS_And_Monsters_13
+  - first:
+      213: 4677901747062188190
+    second: NPCS_And_Monsters_14
+  - first:
+      213: 121964722928343101
+    second: NPCS_And_Monsters_15
+  - first:
+      213: 7624377795637379233
+    second: NPCS_And_Monsters_16
+  - first:
+      213: 4913602380468493924
+    second: NPCS_And_Monsters_17
+  - first:
+      213: 3493265725912802221
+    second: NPCS_And_Monsters_18
+  - first:
+      213: 2511391570689767798
+    second: NPCS_And_Monsters_19
+  - first:
+      213: 8683185417270676698
+    second: NPCS_And_Monsters_20
+  - first:
+      213: 5161028192831730817
+    second: NPCS_And_Monsters_21
+  - first:
+      213: -4025460842168685396
+    second: NPCS_And_Monsters_22
+  - first:
+      213: 7784589819419429030
+    second: NPCS_And_Monsters_23
+  - first:
+      213: 3022999048866190780
+    second: NPCS_And_Monsters_24
+  - first:
+      213: 7621627222070621368
+    second: NPCS_And_Monsters_25
+  - first:
+      213: -2880406728475314986
+    second: NPCS_And_Monsters_26
+  - first:
+      213: 4409028787302787700
+    second: NPCS_And_Monsters_27
+  - first:
+      213: -6279064654371669550
+    second: NPCS_And_Monsters_28
+  - first:
+      213: -714403593687415838
+    second: NPCS_And_Monsters_29
+  - first:
+      213: 5662600345220884065
+    second: NPCS_And_Monsters_30
+  - first:
+      213: -5263571854237978679
+    second: NPCS_And_Monsters_31
+  - first:
+      213: -6971835419717958703
+    second: NPCS_And_Monsters_32
+  - first:
+      213: 4008784456385620048
+    second: NPCS_And_Monsters_33
+  - first:
+      213: -6005729435045124012
+    second: NPCS_And_Monsters_34
+  - first:
+      213: 8835813253189340165
+    second: NPCS_And_Monsters_35
+  - first:
+      213: 7705389489039270646
+    second: NPCS_And_Monsters_36
+  - first:
+      213: 5497426021832930813
+    second: NPCS_And_Monsters_37
+  - first:
+      213: 7413635134460494624
+    second: NPCS_And_Monsters_38
+  - first:
+      213: 8228046105758534761
+    second: NPCS_And_Monsters_39
+  - first:
+      213: 2612610832415974867
+    second: NPCS_And_Monsters_40
+  - first:
+      213: 7069802004613333564
+    second: NPCS_And_Monsters_41
+  - first:
+      213: 4555411047192747912
+    second: NPCS_And_Monsters_42
+  - first:
+      213: -4036167962868286204
+    second: NPCS_And_Monsters_43
+  - first:
+      213: -1914178137859124274
+    second: NPCS_And_Monsters_44
+  - first:
+      213: -6655366378253451331
+    second: NPCS_And_Monsters_45
+  - first:
+      213: -4390434262656282586
+    second: NPCS_And_Monsters_46
+  - first:
+      213: 5388058294384697877
+    second: NPCS_And_Monsters_47
+  - first:
+      213: -7556523759013386591
+    second: NPCS_And_Monsters_48
+  - first:
+      213: -7480462053954796746
+    second: NPCS_And_Monsters_49
+  - first:
+      213: 1316521618662616076
+    second: NPCS_And_Monsters_50
+  - first:
+      213: -6301727957741535645
+    second: NPCS_And_Monsters_51
+  - first:
+      213: -7536273572764031004
+    second: NPCS_And_Monsters_52
+  - first:
+      213: 4377326847529965594
+    second: NPCS_And_Monsters_53
+  - first:
+      213: 6017565294467681858
+    second: NPCS_And_Monsters_54
+  - first:
+      213: 2251876204649520613
+    second: NPCS_And_Monsters_55
+  - first:
+      213: 2550863621261583716
+    second: NPCS_And_Monsters_56
+  - first:
+      213: 7468634713518572920
+    second: NPCS_And_Monsters_57
+  - first:
+      213: 8575714173046109397
+    second: NPCS_And_Monsters_58
+  - first:
+      213: -3015922542402236353
+    second: NPCS_And_Monsters_59
+  - first:
+      213: -7049523531153230292
+    second: NPCS_And_Monsters_60
+  - first:
+      213: -5795775476926827118
+    second: NPCS_And_Monsters_61
+  - first:
+      213: 995003190433251907
+    second: NPCS_And_Monsters_62
+  - first:
+      213: -4375070540761133775
+    second: NPCS_And_Monsters_63
+  - first:
+      213: 7943020735836085183
+    second: NPCS_And_Monsters_64
+  - first:
+      213: -1851497367573194461
+    second: NPCS_And_Monsters_65
+  - first:
+      213: 284949256121193842
+    second: NPCS_And_Monsters_66
+  - first:
+      213: -8584876908663387889
+    second: NPCS_And_Monsters_67
+  - first:
+      213: 8913962450248818206
+    second: NPCS_And_Monsters_68
+  - first:
+      213: -5811800419350791867
+    second: NPCS_And_Monsters_69
+  - first:
+      213: 8966969765925488220
+    second: NPCS_And_Monsters_70
+  - first:
+      213: -5933048935495351194
+    second: NPCS_And_Monsters_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 232
+        width: 15
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd797927e058683e0800000000000000
+      internalID: -2051806283122108453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 232
+        width: 16
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f3bcbc386504be0800000000000000
+      internalID: -1495099952227205222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 232
+        width: 16
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f01e7231aac60af0800000000000000
+      internalID: -430433920681635598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 232
+        width: 15
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b666f9dcb758a8d30800000000000000
+      internalID: 4434503549876921963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 232
+        width: 15
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8709fe9d1f8f38c0800000000000000
+      internalID: -4017334985207249011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 232
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1cb188177718bc0800000000000000
+      internalID: -3782610882515975687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 232
+        width: 16
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4dfee2edd8aa740800000000000000
+      internalID: 5164095908143420600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 235
+        width: 15
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f7374f187d7620800000000000000
+      internalID: 2773505021264262937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 200
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393486e41402ccd40800000000000000
+      internalID: 5605891101029843859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 200
+        width: 15
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177fe048e393b39a0800000000000000
+      internalID: -6252340717007472783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 200
+        width: 15
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dee6e3e0ce01f80800000000000000
+      internalID: -8137744980737331818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 200
+        width: 15
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3110e54c7901fe4a0800000000000000
+      internalID: -6562007888034922221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 200
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbd21f227e647d60800000000000000
+      internalID: 7887050284127673292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 202
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a830ea036b01a1670800000000000000
+      internalID: 8510132820556776330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 201
+        width: 15
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9822d7bade3be040800000000000000
+      internalID: 4677901747062188190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 200
+        width: 15
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38d541f44e41b100800000000000000
+      internalID: 121964722928343101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 204
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0875e953b3fc960800000000000000
+      internalID: 7624377795637379233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 168
+        width: 15
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e9657e45f903440800000000000000
+      internalID: 4913602380468493924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 168
+        width: 15
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3641b6ba29a7030800000000000000
+      internalID: 3493265725912802221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 168
+        width: 15
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679bfded3514ad220800000000000000
+      internalID: 2511391570689767798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 168
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc454ba12fd08870800000000000000
+      internalID: 8683185417270676698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 169
+        width: 15
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184f28d0cc7af9740800000000000000
+      internalID: 5161028192831730817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 170
+        width: 15
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac6a4d11b0b228c0800000000000000
+      internalID: -4025460842168685396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 169
+        width: 15
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a80e9c323b680c60800000000000000
+      internalID: 7784589819419429030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 168
+        width: 15
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb553005e99d3f920800000000000000
+      internalID: 3022999048866190780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 172
+        width: 14
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b477fdc39575c960800000000000000
+      internalID: 7621627222070621368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 136
+        width: 15
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4759c675db608d0800000000000000
+      internalID: -2880406728475314986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 136
+        width: 15
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a67af6254003d30800000000000000
+      internalID: 4409028787302787700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 136
+        width: 15
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9377af6f74cd8a0800000000000000
+      internalID: -6279064654371669550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 136
+        width: 15
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3cff377bde516f0800000000000000
+      internalID: -714403593687415838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 137
+        width: 15
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16625e12309959e40800000000000000
+      internalID: 5662600345220884065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 138
+        width: 15
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfa662494904f6b0800000000000000
+      internalID: -5263571854237978679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 137
+        width: 15
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d38937cf901f3f90800000000000000
+      internalID: -6971835419717958703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 136
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e8ff393012a730800000000000000
+      internalID: 4008784456385620048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 140
+        width: 14
+        height: 23
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458270706ec57aca0800000000000000
+      internalID: -6005729435045124012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 15
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c0a02f65d1f9a70800000000000000
+      internalID: 8835813253189340165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 104
+        width: 15
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2e6365aea0fea60800000000000000
+      internalID: 7705389489039270646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 104
+        width: 16
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5375a17d7ca4c40800000000000000
+      internalID: 5497426021832930813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 104
+        width: 15
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0238fdb20e582e660800000000000000
+      internalID: 7413635134460494624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 104
+        width: 15
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c0641d654ef2270800000000000000
+      internalID: 8228046105758534761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 104
+        width: 15
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5ed7ab5bbd14420800000000000000
+      internalID: 2612610832415974867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 104
+        width: 15
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32825d377bfc1260800000000000000
+      internalID: 7069802004613333564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_42
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 106
+        width: 15
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f50d93632183f30800000000000000
+      internalID: 4555411047192747912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 72
+        width: 14
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d7c6f4f96acf7c0800000000000000
+      internalID: -4036167962868286204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_44
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 72
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3961810297f65e0800000000000000
+      internalID: -1914178137859124274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_45
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 72
+        width: 15
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfff166a8363a3a0800000000000000
+      internalID: -6655366378253451331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 72
+        width: 14
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6201ba4bc4b0213c0800000000000000
+      internalID: -4390434262656282586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_47
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 72
+        width: 15
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512a5e9b87a36ca40800000000000000
+      internalID: 5388058294384697877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_48
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 72
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a625376da5d12790800000000000000
+      internalID: -7556523759013386591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_49
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 72
+        width: 15
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6334c36256f003890800000000000000
+      internalID: -7480462053954796746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 72
+        width: 16
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ce18bdf69354210800000000000000
+      internalID: 1316521618662616076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_51
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 75
+        width: 14
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36efaa77fc3cb88a0800000000000000
+      internalID: -6301727957741535645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 40
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e76c3d4d17c96790800000000000000
+      internalID: -7536273572764031004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_53
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 40
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18ddc463936fbc30800000000000000
+      internalID: 4377326847529965594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 40
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e077db0cfa28350800000000000000
+      internalID: 6017565294467681858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_55
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 40
+        width: 15
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed1a482a75404f10800000000000000
+      internalID: 2251876204649520613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 40
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46563cfc2fc766320800000000000000
+      internalID: 2550863621261583716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_57
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 42
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8750d6093bbe5a760800000000000000
+      internalID: 7468634713518572920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 41
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d432b3ba9e030770800000000000000
+      internalID: 8575714173046109397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_59
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 40
+        width: 15
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30950e3d6a4526d0800000000000000
+      internalID: -3015922542402236353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_60
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 43
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26bad9c2bf0b2e90800000000000000
+      internalID: -7049523531153230292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2953bdb39e4419fa0800000000000000
+      internalID: -5795775476926827118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_62
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 8
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34287244126fecd00800000000000000
+      internalID: 995003190433251907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 8
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d08a6f580a843c0800000000000000
+      internalID: -4375070540761133775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_64
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 8
+        width: 15
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb521b76474b3e60800000000000000
+      internalID: 7943020735836085183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 8
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3299a3f24f82e46e0800000000000000
+      internalID: -1851497367573194461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_66
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 10
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2759d16b6d754f300800000000000000
+      internalID: 284949256121193842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 9
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f094aaaafe36cd880800000000000000
+      internalID: -8584876908663387889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_68
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 8
+        width: 15
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e504cce91c4bb70800000000000000
+      internalID: 8913962450248818206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_69
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 11
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54931239f46585fa0800000000000000
+      internalID: -5811800419350791867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_70
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5608a93e73117c70800000000000000
+      internalID: 8966969765925488220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCS_And_Monsters_71
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 104
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6644ac48d6399ada0800000000000000
+      internalID: -5933048935495351194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

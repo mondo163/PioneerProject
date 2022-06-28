@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon
+  - SavingManager
+  - HUD
+  - EnemyWeapon
+  - Boss
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Settings
+  - Water
+  - UI
+  - Main Menu
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Settings
+    uniqueID: 3524888443
+    locked: 0
+  - name: Main Menu
+    uniqueID: 2028984561
+    locked: 0
+  - name: Sky
+    uniqueID: 358951417
+    locked: 0
+  - name: Castle
+    uniqueID: 1757475493
+    locked: 0
+  - name: Title
+    uniqueID: 2908857587
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

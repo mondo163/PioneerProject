@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu 2.0.unity
+    guid: 66b19b2c127873f4bb2e096cb81daf00
+  - enabled: 1
+    path: Assets/Scenes/Intro Cutscene.unity
+    guid: 1ef11fcec231499458de0886b2b3ff5a
+  - enabled: 1
+    path: Assets/Scenes/Dungeon Level 1.unity
+    guid: dc62b0331b1c3114d8095aceae5c5f16
+  - enabled: 1
+    path: Assets/Scenes/Death Menu.unity
+    guid: 8265eca6d87584d4db3d64eaab2e34cb
+  m_configObjects: {}

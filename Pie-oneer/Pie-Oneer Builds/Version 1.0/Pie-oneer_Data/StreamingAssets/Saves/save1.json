@@ -1,0 +1,81 @@
+{
+    "currentScene": "Dungeon Level 1",
+    "playerData": {
+        "heartsMax": 5,
+        "currentHealth": 5,
+        "currentPosX": -0.289947509765625,
+        "currentPosY": -0.146453857421875
+    },
+    "dungeonLevel1": {
+        "enemiesData": [],
+        "potionRiddleRoom": {
+            "wasPotionChosen": false
+        },
+        "darkRoom": {
+            "areBarrelsDestroyed": []
+        },
+        "ghostRoom": {
+            "riddleStage": 0
+        },
+        "traderRoom": {
+            "items": []
+        },
+        "miniBossRoom": {
+            "miniBossIsDead": false
+        }
+    },
+    "dungeonT1Data": {
+        "enemiesData": [
+            {
+                "isDead": false,
+                "currentPosX": -3.0205090045928957,
+                "currentPosY": 1.590798020362854
+            },
+            {
+                "isDead": false,
+                "currentPosX": -1.1319999694824219,
+                "currentPosY": 1.590798020362854
+            },
+            {
+                "isDead": false,
+                "currentPosX": 17.6299991607666,
+                "currentPosY": 1.590798020362854
+            }
+        ]
+    },
+    "dungeonT2Data": {
+        "enemiesData": [
+            {
+                "isDead": false,
+                "currentPosX": 14.149999618530274,
+                "currentPosY": 1.590798020362854
+            },
+            {
+                "isDead": false,
+                "currentPosX": -1.1319999694824219,
+                "currentPosY": -9.609999656677246
+            },
+            {
+                "isDead": false,
+                "currentPosX": 17.6299991607666,
+                "currentPosY": 1.590798020362854
+            },
+            {
+                "isDead": false,
+                "currentPosX": 16.34000015258789,
+                "currentPosY": -0.5699999928474426
+            },
+            {
+                "isDead": false,
+                "currentPosX": 16.34000015258789,
+                "currentPosY": -9.069999694824219
+            },
+            {
+                "isDead": false,
+                "currentPosX": 17.709999084472658,
+                "currentPosY": -8.029999732971192
+            }
+        ],
+        "blockIsGreen": false
+    }
+}

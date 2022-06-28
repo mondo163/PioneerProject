@@ -1,0 +1,476 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &750827049122218605
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1853685226565700888}
+  - component: {fileID: 4586233745265988345}
+  - component: {fileID: 1042279635189107029}
+  m_Layer: 0
+  m_Name: Trigger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1853685226565700888
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 750827049122218605}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.47, y: -0.63, z: 0}
+  m_LocalScale: {x: 1, y: 2, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3253010106306225601}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4586233745265988345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 750827049122218605}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd46b21f62441374fbd9b1d98e146238, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speakerImage: {fileID: 7584928409170625050, guid: 759939d0b8e0d484a9508088726a9ef0, type: 3}
+  messages:
+  - actions: []
+    wholeMessage:
+    - This is my chapel and I really really love some company!!!
+    - Stay and have fun with me....I can tell you stories...NO you can tell me stories!
+    - No no no....LETS play a game instead...YES yes...I have riddles, you like Riddles?
+      Say you do!
+    choices:
+    - pathToNextMessage: 1
+      sameChoices:
+      - Sure I'll be happy to play!
+      - YES YES... yes
+      - What will this charade get me?
+    - pathToNextMessage: 2
+      sameChoices:
+      - I don't like crazy ghosts, BYE!
+      - Nah...
+  - actions: []
+    wholeMessage:
+    - OhhhhhHH I'll give you a gift, yes a gift...If YOU win...Let me think of a
+      ridd...RIDDLE...hummmm ummm....Oh, no no no.....
+    - AHHH!!! I appear everywhere except in the dark. What am I?
+    choices:
+    - pathToNextMessage: 3
+      sameChoices:
+      - A shadow?
+      - Used up lamp?
+      - Color?
+      - A Rock...
+      - THE MOON
+    - pathToNextMessage: 4
+      sameChoices:
+      - What is Light?
+  - actions: []
+    wholeMessage:
+    - You'll be back....they always come back...
+    choices: []
+  - actions: []
+    wholeMessage:
+    - You really aren't good at riddles!?!! HahaHAHa......Come back if you want to
+      SEE in the DARK! But FIRST meet some FRIENDS!!
+    choices:
+    - pathToNextMessage: 2
+      sameChoices:
+      - Whats that noise??
+  - actions: []
+    wholeMessage:
+    - CorrECT!!! That was a easy one thogh!! Haaa, heres SOME coin...Come back if
+      you want to SEE in the DARK!
+    choices:
+    - pathToNextMessage: 2
+      sameChoices:
+      - Yeah that easy see ya later ghost dude!
+--- !u!61 &1042279635189107029
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 750827049122218605}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.8421183, y: 1}
+  m_EdgeRadius: 0
+--- !u!1 &786205932344298694
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3010149088940842389}
+  - component: {fileID: 2068098357229877971}
+  - component: {fileID: 4542486622686929285}
+  m_Layer: 0
+  m_Name: Trigger (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3010149088940842389
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 786205932344298694}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.47, y: -0.63, z: 0}
+  m_LocalScale: {x: 1, y: 2, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3253010106306225601}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2068098357229877971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 786205932344298694}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd46b21f62441374fbd9b1d98e146238, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speakerImage: {fileID: 7584928409170625050, guid: 759939d0b8e0d484a9508088726a9ef0, type: 3}
+  messages:
+  - actions: []
+    wholeMessage:
+    - Ooooh, YOU came back!!! Of course of CoURSE!!!
+    - I GOT SOOO MANY RIDDLES!!!!! Let me Pick one...this no THAT one...yessSSS...
+    choices:
+    - pathToNextMessage: 1
+      sameChoices:
+      - Lets get this over with OLD MAN!
+      - yes?
+      - Im ready
+    - pathToNextMessage: 2
+      sameChoices:
+      - I don't like crazy ghosts, BYE!
+      - You know I think I'm done.
+  - actions: []
+    wholeMessage:
+    - Alive as you but without breath, As cold in my life as in death; Never a thrist
+      though I always drink, Dressed in a mail but never a clink.
+    choices:
+    - pathToNextMessage: 3
+      sameChoices:
+      - A ghost?
+      - Zombie Dexterous Knight?
+      - What is the dark?
+      - What is the light?
+      - You??
+    - pathToNextMessage: 4
+      sameChoices:
+      - Fish
+  - actions: []
+    wholeMessage:
+    - You'll be back....they always come back...
+    choices: []
+  - actions: []
+    wholeMessage:
+    - I knew that one would get you !?!! HahaHAHa...You HEAR that? Hehehe!!
+    choices:
+    - pathToNextMessage: 2
+      sameChoices:
+      - Friends?!
+  - actions: []
+    wholeMessage:
+    - Ahh I thought that ONE would surely EVADE you...Hhheres SOME coin...Come back
+      you are sooo CLOSE to SEE in the DARK!
+    choices:
+    - pathToNextMessage: 2
+      sameChoices:
+      - Yeah kinda good at these things,see ya later ghost dude!
+--- !u!61 &4542486622686929285
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 786205932344298694}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.12844563, y: -0.19980717}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 7.122717, y: 4.1969013}
+  m_EdgeRadius: 0
+--- !u!1 &3253010106306225602
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3253010106306225601}
+  - component: {fileID: 3253010106306225607}
+  - component: {fileID: 3253010106306225600}
+  m_Layer: 0
+  m_Name: Ghost
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3253010106306225601
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3253010106306225602}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.5, y: 62.54, z: 246.09625}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1853685226565700888}
+  - {fileID: 3010149088940842389}
+  - {fileID: 7094519669309995078}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &3253010106306225607
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3253010106306225602}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 4
+  m_Sprite: {fileID: -4036167962868286204, guid: 59dda2628e9cd7c48a67441d42b5deeb, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.2784314}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!95 &3253010106306225600
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3253010106306225602}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: eb59354e7efa6dd4eb9ab33aa68ae153, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &4708513113669896116
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7094519669309995078}
+  - component: {fileID: 8929227886195374106}
+  - component: {fileID: 6304840289034302519}
+  m_Layer: 0
+  m_Name: Trigger (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7094519669309995078
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4708513113669896116}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.47, y: -0.63, z: 0}
+  m_LocalScale: {x: 1, y: 2, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3253010106306225601}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8929227886195374106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4708513113669896116}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd46b21f62441374fbd9b1d98e146238, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speakerImage: {fileID: 7584928409170625050, guid: 759939d0b8e0d484a9508088726a9ef0, type: 3}
+  messages:
+  - actions: []
+    wholeMessage:
+    - Ahhhh, are you ready...FOR ONE LAST RIDDLE?!?!
+    choices:
+    - pathToNextMessage: 1
+      sameChoices:
+      - Lets hear it!
+      - Please MAKE IT STOP
+      - Im here so I can see in the Dark
+    - pathToNextMessage: 5
+      sameChoices:
+      - I don't like crazy ghosts, BYE!
+      - Another Riddle...NO!
+  - actions: []
+    wholeMessage:
+    - The man who invented it, Doesn't want it for himself. The man who bought it,
+      Doesn't need it for himself. The man who needs it, Doesn't know it when he
+      needs it.
+    choices:
+    - pathToNextMessage: 3
+      sameChoices:
+      - Two Movie Tickets?
+      - Pie?
+      - Life Insurance?
+      - What is the light?
+      - Birthday Cake?
+    - pathToNextMessage: 4
+      sameChoices:
+      - Coffin
+  - actions: []
+    wholeMessage:
+    - This has been SOOO much fun...Take this TORCH as a GIFT...I plan to SEE you
+      soon, Hehehe...
+    choices: []
+  - actions: []
+    wholeMessage:
+    - HahaHAHa how amusing...Let me introduce you to those noises, RIGHT?!
+    choices:
+    - pathToNextMessage: 2
+      sameChoices:
+      - I would rather not...
+  - actions: []
+    wholeMessage:
+    - That is WRO.... wait no no, that is actually RIGHT!?!? You HAVE listened and
+      answered ALL my RIDDLES!
+    choices:
+    - pathToNextMessage: 2
+      sameChoices:
+      - Your riddles are a piece of pie ghost dude!
+  - actions: []
+    wholeMessage:
+    - You'll be back....they always come back...
+    choices: []
+--- !u!61 &6304840289034302519
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4708513113669896116}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.12844563, y: -0.19980717}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 7.122717, y: 4.1969013}
+  m_EdgeRadius: 0

@@ -1,0 +1,18 @@
+Art Assets:
+
+Matthias Stuetzer (https://assetstore.unity.com/packages/2d/environments/2d-pixel-top-down-dungeon-tileset-73645)
+
+0x72 (https://0x72.itch.io/dungeontileset-ii)
+
+Sound Assests:
+
+mixkit (https://mixkit.co/)
+
+Juhani Junkala (https://opengameart.org/content/512-sound-effects-8-bit-style)
+
+theindiegameorchestra 
+{
+	itcho: https://theindiegameorchestra.itch.io/
+	twitter: https://twitter.com/freevgmusic
+	youtube: https://www.youtube.com/channel/UCtZyrlBs7MORDa875OMA4bA
+}
